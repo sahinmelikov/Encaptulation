@@ -1,0 +1,15 @@
+C:\Users\555\OneDrive\Masaüstü\Acces_Modifiers_Encaptulation\Acces_Modifiers_Encaptulation\obj\Debug\net6.0\Acces_Modifiers_Encaptulation.csproj.AssemblyReference.cache
+C:\Users\555\OneDrive\Masaüstü\Acces_Modifiers_Encaptulation\Acces_Modifiers_Encaptulation\obj\Debug\net6.0\Acces_Modifiers_Encaptulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\555\OneDrive\Masaüstü\Acces_Modifiers_Encaptulation\Acces_Modifiers_Encaptulation\obj\Debug\net6.0\Acces_Modifiers_Encaptulation.AssemblyInfoInputs.cache
+C:\Users\555\OneDrive\Masaüstü\Acces_Modifiers_Encaptulation\Acces_Modifiers_Encaptulation\obj\Debug\net6.0\Acces_Modifiers_Encaptulation.AssemblyInfo.cs
+C:\Users\555\OneDrive\Masaüstü\Acces_Modifiers_Encaptulation\Acces_Modifiers_Encaptulation\obj\Debug\net6.0\Acces_Modifiers_Encaptulation.csproj.CoreCompileInputs.cache
+C:\Users\555\OneDrive\Masaüstü\Acces_Modifiers_Encaptulation\Acces_Modifiers_Encaptulation\bin\Debug\net6.0\Acces_Modifiers_Encaptulation.exe
+C:\Users\555\OneDrive\Masaüstü\Acces_Modifiers_Encaptulation\Acces_Modifiers_Encaptulation\bin\Debug\net6.0\Acces_Modifiers_Encaptulation.deps.json
+C:\Users\555\OneDrive\Masaüstü\Acces_Modifiers_Encaptulation\Acces_Modifiers_Encaptulation\bin\Debug\net6.0\Acces_Modifiers_Encaptulation.runtimeconfig.json
+C:\Users\555\OneDrive\Masaüstü\Acces_Modifiers_Encaptulation\Acces_Modifiers_Encaptulation\bin\Debug\net6.0\Acces_Modifiers_Encaptulation.dll
+C:\Users\555\OneDrive\Masaüstü\Acces_Modifiers_Encaptulation\Acces_Modifiers_Encaptulation\bin\Debug\net6.0\Acces_Modifiers_Encaptulation.pdb
+C:\Users\555\OneDrive\Masaüstü\Acces_Modifiers_Encaptulation\Acces_Modifiers_Encaptulation\obj\Debug\net6.0\Acces_Modifiers_Encaptulation.dll
+C:\Users\555\OneDrive\Masaüstü\Acces_Modifiers_Encaptulation\Acces_Modifiers_Encaptulation\obj\Debug\net6.0\refint\Acces_Modifiers_Encaptulation.dll
+C:\Users\555\OneDrive\Masaüstü\Acces_Modifiers_Encaptulation\Acces_Modifiers_Encaptulation\obj\Debug\net6.0\Acces_Modifiers_Encaptulation.pdb
+C:\Users\555\OneDrive\Masaüstü\Acces_Modifiers_Encaptulation\Acces_Modifiers_Encaptulation\obj\Debug\net6.0\Acces_Modifiers_Encaptulation.genruntimeconfig.cache
+C:\Users\555\OneDrive\Masaüstü\Acces_Modifiers_Encaptulation\Acces_Modifiers_Encaptulation\obj\Debug\net6.0\ref\Acces_Modifiers_Encaptulation.dll
